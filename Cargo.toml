@@ -1,0 +1,7 @@
+[package]
+name = "rust_microservices_book"
+version = "0.1.0"
+authors = ["nsmc"]
+edition = "2018"
+
+[dependencies]
